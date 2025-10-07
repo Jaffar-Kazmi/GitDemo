@@ -5,3 +5,5 @@ Git Branches
 2nd Day
 Difference between working directory and staging area
 Stashing
+Stashing 2
+
